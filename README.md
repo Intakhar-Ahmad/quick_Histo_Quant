@@ -1,5 +1,5 @@
 # quick_Histo_Quant
-When you just need quick, publication-ready numbers—without firing up ImageJ macros or writing Python from scratch **quick_Histo_Quant** has you covered:
+When you just need quick, publication-ready numbers, without firing up ImageJ macros or writing Python from scratch  **quick_Histo_Quant** has you covered:
 
 | Task | Script | What it does |
 |------|--------|--------------|
